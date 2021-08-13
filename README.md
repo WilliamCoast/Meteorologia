@@ -1,2 +1,2 @@
 # Previsao-do-clima
-Previsão do clima em tempo real 
+Aplicação desenvolvida para uso meteorológico 
